@@ -2,17 +2,20 @@
   "name": "webserv",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js",
-    "start-prod": "node server.js"
+    "start": "nodemon app.js",
+    "start-prod": "node app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.0"
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongobd": "^0.0.1-security.0",
+    "mongodb": "6.9.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.5"

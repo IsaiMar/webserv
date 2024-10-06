@@ -1,0 +1,22 @@
+{    
+    "contact": {
+    "firstName": "Miriam",
+    "lastName": "Seely Mar",
+    "email": "mkat.seely@gmail.com",
+    "favoriteColor": "Black",
+    "birthday": "2000-12-21"
+  },
+  "contact2": {
+    "firstName": "Moroni",
+    "lastName": "Mar",
+    "email": "moroni.mar.0507@gmail.com",
+    "favoriteColor": "Blue",
+    "birthday": "1997-10-05"
+  },
+  "contact3": {
+    "firstName": "Maricela",
+    "lastName": "Mar",
+    "email": "maricelamar815@gmail.com",
+    "favoriteColor": "Pink",
+    "birthday": "1975-10-25"
+  }}
